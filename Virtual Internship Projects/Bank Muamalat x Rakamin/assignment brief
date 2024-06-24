@@ -1,4 +1,4 @@
-#Brief
+# Brief
 Project ini merupakan case study dalam Project-Based Virtual Internship program yang diadakan oleh Rakamin Academy kerjasama dengan Bank Muamalat.
 Bertujuan untuk membuat visualisasi data yang menampilkan data penjualan dan memberikan saran berdasarkan analisa.
 Terdapat 4 tabel yang digunakan pada project ini yaitu:
@@ -8,14 +8,14 @@ Terdapat 4 tabel yang digunakan pada project ini yaitu:
 3. Tabel Orders
 4. Tabel ProductCategory
 
-#Tools
+# Tools
 Tools yang saya gunakan pada project ini yaitu:
 
 1. drawSQL
 2. Google Big Query
 3. Tableau
 
-#Tahapan Analisis
+# Tahapan Analisis
 1. Menentukan primary key dan foreign key pada keempat tabel yaitu tabel Customer, Products, Orders dan ProductCategory
 2. Menentukan relationship dari keempat tabel berdasarkan foreign key yang telah ditetapkan
 3. Membuat Entity Relationship Diagram (ERD) menggunakan drawSQL
