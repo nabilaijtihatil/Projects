@@ -1,1 +1,1 @@
-# Projects
+This repository aims to display the projects I have worked on while taking various courses. The skills I use here include SQL, Python, data analysis, data cleaning, data manipulation, exploratory data analysis, and data visualization using Tableau.
