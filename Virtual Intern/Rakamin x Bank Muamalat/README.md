@@ -27,3 +27,6 @@ Tools yang saya gunakan yaitu:
 6. Import table master tersebut ke dalam Tableau
 7. Membuat sales dashboard menggunakan Tableau
 8. Memberikan rekomendasi berdasarkan hasil analisa
+
+# Sales Dashboard
+https://public.tableau.com/views/FinalTaskRakamin_17155063016710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
