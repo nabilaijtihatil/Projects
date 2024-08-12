@@ -18,4 +18,4 @@ ON
   oi.product_id = p.id
 WHERE
   oi.status != 'Cancelled' and oi.status != 'Returned'
-GROUP BY 1,2,3,4
+GROUP BY YEAR, MONTH, PRODUCT_ID, PRODUCT_NAME
