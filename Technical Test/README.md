@@ -1,4 +1,5 @@
-Dataset yang saya gunakan yaitu thelook_ecommerce dari Big Query Public Data
+Disini saya akan membuat temporary table yang betujuan untuk menyajikan data penjualan produk setiap bulannya. Dataset yang saya gunakan yaitu thelook_ecommerce dari Big Query Public Data.
+
 
 Penjelasan mengenai code yang saya gunakan:
 
