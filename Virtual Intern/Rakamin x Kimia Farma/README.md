@@ -1,4 +1,4 @@
-Project ini merupakan case study pada project-based virtual intern yang diadakan oleh Kimia Farma bersama dengan Rakamin Academy. Tujuan dari project ini adalah untuk mengevaluasi kinerja bisnis dari Kimia Farma sejak tahun 2020-2023. Terdapat 4 tabel yang digunakan pada project ini yaitu:
+Project ini merupakan case study pada project-based virtual intern yang diadakan oleh Kimia Farma bersama dengan Rakamin Academy. Posisi saya pada project ini adalah sebagai Big Data Analytics. Tujuan dari project ini adalah untuk mengevaluasi kinerja bisnis dari Kimia Farma sejak tahun 2020-2023. Terdapat 4 tabel yang digunakan pada project ini yaitu:
 1. Final Transaction Table
 2. Inventory Table
 3. Kantor Cabang Table
@@ -42,3 +42,7 @@ Tools yang saya gunakan yaitu:
    - Top 10 provincial branches by nett sales
    - Top 5 branches with the highest ratings but the lowest transaction ratings
    - Total Profit for each province
+
+# Performance Analytics Dashboard
+https://public.tableau.com/views/KimiaFarmafinaltask/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
