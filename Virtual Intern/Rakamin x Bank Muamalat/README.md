@@ -1,4 +1,4 @@
-Project ini merupakan case study dari project virtual intern Bank Muamalat dengan Rakamin Academy. Terdapat 4 tabel yang digunakan pada project ini yaitu:
+Project ini merupakan case study dari project virtual intern Bank Muamalat dengan Rakamin Academy. Posisi saya pada project ini adalah sebagai Business Intelligence Analyst. Terdapat 4 tabel yang digunakan pada project ini yaitu:
 1. Tabel Orders
 2. Tabel Customers
 3. Tabel Products
