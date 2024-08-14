@@ -1,1 +1,1 @@
-The final projects 
+# This project aims to understand customer behavior and preferences in shopping then create the customer segmentation. K-Means Clustering will be used for this segmentation. The elbow method will determine the optimal value of K, followed by a radar chart to visualize the findings.
