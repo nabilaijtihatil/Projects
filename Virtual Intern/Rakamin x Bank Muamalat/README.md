@@ -29,4 +29,4 @@ Tools yang saya gunakan yaitu:
 8. Memberikan rekomendasi berdasarkan hasil analisa
 
 # Sales Dashboard
-https://public.tableau.com/views/FinalTaskRakamin_17155063016710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/shared/X58HR57YT?:display_count=n&:origin=viz_share_link
