@@ -46,3 +46,5 @@ Tools yang saya gunakan yaitu:
 # Performance Analytics Dashboard
 https://public.tableau.com/views/KimiaFarmafinaltask/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+revisi
+https://public.tableau.com/app/profile/nabila.ijtihatil.ismail/viz/KimiaFarmafinaltask/Dashboard12?publish=yes
